@@ -10,7 +10,7 @@ const Register = () => {
         <input
           type="email"
           id="email"
-          className="mt-2 rounded-sm border-transparent flex-1 appearance-none border border-gray-500 w-full py-2 px-4 bg-white text-gray-700 placeholder-gray-400 shadow-sm text-base focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent"
+          className="mt-2 rounded-sm border-transparent flex-1 appearance-none border border-gray-600 w-full py-2 px-4 bg-white text-gray-700 placeholder-gray-400 shadow-sm text-base focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent"
           name="email"
           placeholder="Email Address"
           required
@@ -23,7 +23,7 @@ const Register = () => {
         <input
           type="password"
           id="password"
-          className=" mt-2 rounded-sm border-transparent flex-1 appearance-none border border-gray-500 w-full py-2 px-4 bg-white text-gray-700 placeholder-gray-400 shadow-sm text-base focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent"
+          className=" mt-2 rounded-sm border-transparent flex-1 appearance-none border border-gray-600 w-full py-2 px-4 bg-white text-gray-700 placeholder-gray-400 shadow-sm text-base focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent"
           name="password"
           placeholder="*********"
           required
